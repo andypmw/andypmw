@@ -30,11 +30,10 @@ I am a reliable and responsible person. Looking for opportunities to use my expe
 <!--START_SECTION:waka-->
 
 ```text
-Python     4 hrs 49 mins   ███████████████░░░░░░░░░░   60.31 %
-Markdown   1 hr 46 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
-PHP        1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-Groovy     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Go         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python     5 hrs 43 mins   ████████████████░░░░░░░░░   63.43 %
+Markdown   1 hr 36 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
+PHP        1 hr 24 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
+Groovy     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
