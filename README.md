@@ -30,11 +30,10 @@ I am a reliable and responsible person. Looking for opportunities to use my expe
 <!--START_SECTION:waka-->
 
 ```text
-Markdown         5 hrs 42 mins   ██████████▓░░░░░░░░░░░░░░   42.96 %
-PHP              5 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   38.08 %
-JSON             1 hr 27 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
-Bash             25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Other            17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Markdown         5 hrs 43 mins   ██████████▓░░░░░░░░░░░░░░   42.14 %
+PHP              5 hrs 3 mins    █████████▒░░░░░░░░░░░░░░░   37.31 %
+JSON             1 hr 27 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Other            30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
