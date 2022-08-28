@@ -30,8 +30,8 @@ I am a reliable and responsible person. Looking for opportunities to use my expe
 <!--START_SECTION:waka-->
 
 ```text
-Bash       4 mins          ███████████████████████░░   92.13 %
-Other      0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Bash    4 mins          ████████████████████████▓   98.79 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
