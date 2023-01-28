@@ -30,8 +30,7 @@ I am a reliable and responsible person. Looking for opportunities to use my expe
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   4 hrs           ███████████▓░░░░░░░░░░░░░   46.02 %
-Other      2 hrs 32 mins   ███████▒░░░░░░░░░░░░░░░░░   29.26 %
+Other      2 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   38.43 %
 ```
 
 <!--END_SECTION:waka-->
