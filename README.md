@@ -30,11 +30,10 @@ I am a reliable and responsible person. Looking for opportunities to use my expe
 <!--START_SECTION:waka-->
 
 ```txt
-Go         5 hrs 25 mins   ████████████████░░░░░░░░░   64.25 %
-Other      1 hr 26 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-Markdown   1 hr 22 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
-Text       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Bash       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Go         5 hrs 11 mins   ███████████████████░░░░░░   76.45 %
+Other      47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+Markdown   39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Text       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
