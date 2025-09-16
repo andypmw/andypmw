@@ -1,8 +1,9 @@
 ### Andy Primawan
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andy-primawan/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dojotek.id/author/andy-primawan/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/AndyPmw)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff))](https://www.linkedin.com/in/andy-primawan/)
+[![Blog](https://img.shields.io/badge/Ghost-000?logo=ghost&logoColor=yellow)](https://dojotek.id/author/andy-primawan/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/AndyPmw)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@AndyPrimawan/shorts)
 
 Andy Primawan is an AI LLM builder (Chatbot RAG, Agentic AI) with expertise in LangChain, LangGraph, LangSmith.
 
@@ -11,3 +12,5 @@ He is also a full-stack engineer with expertise in Node.js, Nest.js, Next.js, Re
 BONUS: experienced to handle AWS, GCP, K3S, Helm Chart.
 
 Delivers robust backends, modern frontends, and cloud-native AI integrations that drive business growth.
+
+![Andy Primawan - github open source - build in public](./banner-images/andy-primawan-github-open-source.png)
